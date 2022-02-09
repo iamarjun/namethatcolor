@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iamarjun.namethatcolor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iamarjun.namethatcolor.MyBundle
 
 class MyApplicationService {
 
